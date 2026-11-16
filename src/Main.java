@@ -54,7 +54,7 @@ public class Main {
                 System.out.println("Misc: " + p.getMisc());
             }
         }
-        // Bloque 5: eliminar todo «Eliminar tódo-los pokemons na pokedex»
+        //Bloque 5: eliminar todo «Eliminar tódo-los pokemons na pokedex»
 
         pokedexList = pokServ.listarPokedex();
         if (pokedexList != null) {
